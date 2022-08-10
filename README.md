@@ -1,2 +1,2 @@
 # BelajarGit
-# Percobaan selanjutnya untuk mengeush ke branch development
+# Percobaan selanjutnya untuk mengepush ke branch development
